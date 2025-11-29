@@ -1,7 +1,7 @@
 # Digital Trust Survey 2025 (Dataset)
 
 **Human Clarity Institute (HCI)**  
-**DOI:** https://doi.org/10.5281/zenodo.17717451  
+**DOI:** 10.5281/zenodo.17717450 
 **Version:** v1.0  
 **Licence:** CC-BY-4.0  
 **Date Published:** 2025-11-26  
@@ -16,7 +16,7 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, d
 ## Repository / Access Links
 
 **GitHub:** https://github.com/humanclarityinstitute/HCI-DigitalTrust-2025  
-**Zenodo:** https://doi.org/10.5281/zenodo.17717451  
+**Zenodo:** https://doi.org/10.5281/zenodo.17717450 
 **Figshare:** https://doi.org/10.6084/m9.figshare.30716333  
 
 This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-term preservation and citation stability.
@@ -26,7 +26,7 @@ This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-te
 # 1. Citation
 
 **APA:**  
-Human Clarity Institute. (2025). *Digital Trust Survey 2025 Dataset* [Data set]. Human Clarity Institute. https://doi.org/10.5281/zenodo.17717451
+Human Clarity Institute. (2025). *Digital Trust Survey 2025 Dataset* [Data set]. Human Clarity Institute. https://doi.org/10.5281/zenodo.17717450
 
 **BibTeX**
 ```bibtex
@@ -35,7 +35,7 @@ Human Clarity Institute. (2025). *Digital Trust Survey 2025 Dataset* [Data set].
   title     = {Digital Trust Survey 2025 Dataset},
   year      = {2025},
   publisher = {Human Clarity Institute},
-  doi       = {10.5281/zenodo.17717451},
+  doi       = {10.5281/zenodo.17717450},
   url       = {https://humanclarityinstitute.com/datasets/digital-trust-2025/},
   license   = {CC-BY-4.0}
 }
@@ -188,5 +188,5 @@ Attribution text:
 
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
-Dashboard Cluster: Digital Trust  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
