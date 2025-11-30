@@ -1,7 +1,7 @@
 # Digital Trust Survey 2025 (Dataset)
 
 **Human Clarity Institute (HCI)**  
-**DOI:** 10.5281/zenodo.17717450 
+**DOI:** 10.5281/zenodo.17717450   
 **Version:** v1.0  
 **Licence:** CC-BY-4.0  
 **Date Published:** 2025-11-26  
@@ -189,5 +189,6 @@ Attribution text:
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
 
 
